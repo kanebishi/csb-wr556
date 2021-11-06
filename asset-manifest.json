@@ -1,20 +1,17 @@
 {
   "files": {
-    "main.css": "https://kanebishi.github.io/csb-wr556/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://kanebishi.github.io/csb-wr556/static/js/main.dd799496.chunk.js",
-    "main.js.map": "https://kanebishi.github.io/csb-wr556/static/js/main.dd799496.chunk.js.map",
+    "main.js": "https://kanebishi.github.io/csb-wr556/static/js/main.c40a858f.chunk.js",
+    "main.js.map": "https://kanebishi.github.io/csb-wr556/static/js/main.c40a858f.chunk.js.map",
     "runtime-main.js": "https://kanebishi.github.io/csb-wr556/static/js/runtime-main.426d6a3a.js",
     "runtime-main.js.map": "https://kanebishi.github.io/csb-wr556/static/js/runtime-main.426d6a3a.js.map",
-    "static/js/2.a736a3cd.chunk.js": "https://kanebishi.github.io/csb-wr556/static/js/2.a736a3cd.chunk.js",
-    "static/js/2.a736a3cd.chunk.js.map": "https://kanebishi.github.io/csb-wr556/static/js/2.a736a3cd.chunk.js.map",
+    "static/js/2.8a02e2f5.chunk.js": "https://kanebishi.github.io/csb-wr556/static/js/2.8a02e2f5.chunk.js",
+    "static/js/2.8a02e2f5.chunk.js.map": "https://kanebishi.github.io/csb-wr556/static/js/2.8a02e2f5.chunk.js.map",
     "index.html": "https://kanebishi.github.io/csb-wr556/index.html",
-    "static/css/main.f29ae65a.chunk.css.map": "https://kanebishi.github.io/csb-wr556/static/css/main.f29ae65a.chunk.css.map",
-    "static/js/2.a736a3cd.chunk.js.LICENSE.txt": "https://kanebishi.github.io/csb-wr556/static/js/2.a736a3cd.chunk.js.LICENSE.txt"
+    "static/js/2.8a02e2f5.chunk.js.LICENSE.txt": "https://kanebishi.github.io/csb-wr556/static/js/2.8a02e2f5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.426d6a3a.js",
-    "static/js/2.a736a3cd.chunk.js",
-    "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.dd799496.chunk.js"
+    "static/js/2.8a02e2f5.chunk.js",
+    "static/js/main.c40a858f.chunk.js"
   ]
 }
